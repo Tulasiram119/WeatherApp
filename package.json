@@ -1,11 +1,12 @@
 {
   "name": "personal-projects",
   "version": "1.0.0",
- 
+  
   "description": "This Weather app",
   "scripts": {
     "test": "jest",
-    "start": "npx parcel index.html"   
+    "start": "npx parcel index.html", 
+    "build":"npx parcel build index.html"  
   },
   "author": "tulasiram",
   "license": "ISC",
