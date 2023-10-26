@@ -5,8 +5,7 @@
   "description": "This Weather app",
   "scripts": {
     "test": "jest",
-    "start": "npx parcel index.html"
-    
+    "start": "npx parcel index.html"   
   },
   "author": "tulasiram",
   "license": "ISC",
